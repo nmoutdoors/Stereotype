@@ -1,6 +1,5 @@
 # INITIALIZR README
 
-
 ## Description
 >Complete Responsive website in seconds using:
 - [HTML 5 Boilerplate](http://www.initializr.com/)
@@ -11,11 +10,11 @@
 
 ## Installation instructions
 
-> Just Fork and Go
+> Just [Download Link](https://github.com/nmoutdoors/initializr/archive/master.zip) and Go to Work!
 
 ## Usage instructions
 
-> Copy the files and directories from your Fork and add to any project
+> Copy the files and directories to your project/repository
 
 ## Support
 
