@@ -1,19 +1,21 @@
-# README INITIALIZR
+# INITIALIZR README
 
-A template of README best practices to make your README simple to understand and easy to use.
 
-Replace the contents of `README.md` with your project's:
-
-### Description
->
+## Description
+>Complete Responsive website in seconds using:
+- [HTML 5 Boilerplate](http://www.initializr.com/)
+-- test
+- [Bootstrap](http://getbootstrap.com/)
+- [Slick](http://kenwheeler.github.io/slick/) (The Last Carousel you'll ever need)
+- [Font Awesome](https://fortawesome.github.io/Font-Awesome/examples/)
 
 ## Installation instructions
 
-> Add Here
+> Just Fork and Go
 
 ## Usage instructions
 
-> Add Here
+> Copy the files and directories from your Fork and add to any project
 
 ## Support
 
